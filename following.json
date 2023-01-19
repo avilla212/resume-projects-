@@ -1,0 +1,16 @@
+{
+    "following": [
+        {
+            "username" : "johndoe"
+        },
+        {
+            "username" : "janedoe"
+        },
+        {
+            "username" : "sam_smith"
+        },
+        {
+            "username": "katie_perry"
+        }
+    ]
+}
